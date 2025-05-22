@@ -1,4 +1,6 @@
 # Veggie-Mingle-Matching
+This project aims to build a machine learning model that predicts customer churn in the credit card industry. Using historical customer data, it identifies key features contributing to account cancellations, helping businesses improve customer retention strategies.
+
 ## 📘 Overview
 
 **Veggie Mingle** is a health-focused dating platform designed for users with dietary preferences like vegetarian, vegan, and pescatarian. This analysis aims to understand the factors that contribute to successful matches and build predictive models using demographic, behavioral, and lifestyle attributes of users.
